@@ -16,3 +16,6 @@ For this project, you will analyze the business problem using the Problem Solvin
 
 Data on all past applications
 The list of customers that need to be processed in the next few days
+
+Please refer to the following link for the solution.
+https://github.com/gmalekar/Predicting-Loan-Default/blob/master/Predicting%20Load%20Default%20Submission.pdf
